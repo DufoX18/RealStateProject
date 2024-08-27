@@ -1,0 +1,37 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.custom-card {
+    color: white;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+
+#personalizar .form-control,
+.form-select {
+    background-color: #343a40;
+    color: white;
+    border: none;
+}
+
+#personalizar .form-control:focus,
+.form-select:focus {
+    box-shadow: none;
+    background-color: #495057;
+}
+
+.btn-custom {
+    background-color: #ffc107;
+    color: #1e1e2d;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+.btn-custom:hover {
+    background-color: #e0a800;
+    color: #1e1e2d;
+}
